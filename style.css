@@ -1,0 +1,54 @@
+.main{
+    background-color: #000000;
+}
+.container1{
+    height: 1677px;
+width: 1728px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+background: #FFFFFF;
+
+}
+.container1 .timezone{
+    height: 144px;
+width: 692.2684936523438px;
+left: 72px;
+top: 101px;
+border-radius: nullpx;
+}
+.container1 .currenttimezone{
+    height: 160px;
+width: 1241px;
+left: 72px;
+top: 287px;
+border-radius: nullpx;
+}
+.container1 .info{
+    height: 1120px;
+width: 1585px;
+left: 72px;
+top: 489px;
+border-radius: 0px;
+border: 2px solid #000000;
+
+}
+.container2{
+    height: 160px;
+width: 800px;
+left: 72px;
+top: 1818px;
+border-radius: nullpx;
+
+}
+.container2 h1{
+    
+font-family: Inter;
+font-size: 100px;
+font-weight: 700;
+line-height: 121px;
+letter-spacing: 0em;
+text-align: left;
+background: #FFFFFF;
+
+}
